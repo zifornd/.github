@@ -12,7 +12,7 @@ See `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` for ways to get started.
 
 ### 📢 Contact
 
-If you have any feedback please feel free to get in [touch](mailto:james.ashmore@zifornd.com). 
+If you have any feedback please feel free to get in [touch](mailto:bioinformatics@zifornd.com). 
 
 If you would like to join our team or start a partnership we would love 💗 to hear from you - please reach out for [more details](mailto:james.ashmore@zifornd.com). 
 
