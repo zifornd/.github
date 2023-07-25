@@ -1,6 +1,6 @@
-### Hi there this is Zifo Bioinformatics! 👋
+### Hi there this is Zifo! 👋
 
-We are a bioinformatics consultancy and a group of scientists eager to contribute to reproducible, open source, bioinformatics software.
+We are a scientific informatics consultancy and a group of scientists eager to contribute to reproducible and open source software.
 
 ### ⚡ Dedicated to open source
 
